@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o @LucasFolli
 - 👀 Tenho interesse em computação e desenvolvimento
-- 🌱 Estou aprendendo Java e programação web no momento
+- 🌱 Estou aprendendo Java e Python no momento
 - 💞️ Em um futuro não tão distante, quero poder colaborar com outros desenvolvedores e trabalhar na área
 - 📫 Você pode entrar em contato comigo pelo e-mail contato_lucasalves@yahoo.com
 
